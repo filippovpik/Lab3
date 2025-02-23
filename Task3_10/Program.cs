@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Input number");
-            int n = Convert.ToInt32(Console.ReadLine()); //input number_
+            int n = Convert.ToInt32(Console.ReadLine()); //input number
             string ending = "ов";
 
 

@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Input a number");
-            int a = Convert.ToInt32(Console.ReadLine()); //input number_
+            int a = Convert.ToInt32(Console.ReadLine()); //input number
 
             string c = ("=");
 

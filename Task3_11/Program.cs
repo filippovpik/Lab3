@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Input length of the site");
-            int lSite = Convert.ToInt32(Console.ReadLine()); //input number_
+            int lSite = Convert.ToInt32(Console.ReadLine()); //input number
             Console.WriteLine("Input width of the site");
             int wSite = Convert.ToInt32(Console.ReadLine()); //input number
             Console.WriteLine("Input length of the first house");

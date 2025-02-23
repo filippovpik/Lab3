@@ -6,7 +6,7 @@
         {
             {
                 Console.WriteLine("Input 2 numbers");
-                int a = Convert.ToInt32(Console.ReadLine()); //input number_
+                int a = Convert.ToInt32(Console.ReadLine()); //input number
                 int b = Convert.ToInt32(Console.ReadLine()); //input number
                 string c = ("=");
 
