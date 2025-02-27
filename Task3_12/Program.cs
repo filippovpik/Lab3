@@ -219,7 +219,7 @@
                         break;
                     }
             }
-            if (a < 100 || a > 999) //Check acceptability of the number
+            if (a < 100 || a > 999) //Check acceptability of the number_
 
             {
                 pos1Char = "Ошибка";
